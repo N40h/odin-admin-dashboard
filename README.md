@@ -18,7 +18,7 @@ Quick and simple admin dashboard from the Odin Project curriculum.
 
 ### Links
 
-- Live Site URL: [Live Site](https://classy-pixie-21cb53.netlify.app/)
+- Live Site URL: [Live Site](https://visionary-salmiakki-c56c7a.netlify.app/)
 
 ## My Process
 
